@@ -2,13 +2,13 @@
 
 fork and clone this repo
 
-In your terminal, change directories into repo folder and run the following command:
+In your terminal, change directories into repo's folder and run the following command:
 
-'npm install && npm start'
+```npm install && npm start```
 
-then in your browser go to the url:
+then in your browser, go to the url:
 
-http://localhost:3000
+http://localhost:3000/
 
 To load a new quote refresh your browser
 
